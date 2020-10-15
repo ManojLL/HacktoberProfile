@@ -38,6 +38,11 @@ var profiles = [
         "name" : "Pandiyan Murugan",
         "place" : "Tamil Nadu, India",
         "github" : "PandiyanCool"
+    },{
+    
+        "name" : "gale ",
+        "place" : "colombo , sri lanka",
+        "github" : "MRgale12"
     }
 ]
 
